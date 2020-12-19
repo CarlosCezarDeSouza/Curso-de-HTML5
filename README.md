@@ -7,7 +7,7 @@ respeito do Google Glass desenvolvido pelo Google.
 
 # GOOGLE GLASS PROJECT
 
-This project was built over the course of HTML5
+This project was developed over the course of HTML5
 provided by the Video Course, where a website is created in the
-HTML5, CSS3 and Javascript technologies. The website content is the
+HTML5, CSS3 and Javascript technologies. The website content is about the
 Google Glass developed by Google.
